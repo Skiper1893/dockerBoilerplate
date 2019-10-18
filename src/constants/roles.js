@@ -1,0 +1,8 @@
+const ROLES = {
+  ADMIN: 'ADMIN',
+  GAMER: 'GAMER',
+  TEAM_MANAGER: 'TEAM_MANAGER',
+  LEAGUE_MANAGER: 'LEAGUE_MANAGER',
+}
+
+module.exports = ROLES

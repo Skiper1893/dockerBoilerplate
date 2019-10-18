@@ -1,0 +1,48 @@
+# Docker
+Dockerfile*
+docker-compose.yml
+.dockerignore
+
+# Exclude all Markdown files (except README?):
+*.md
+# !README.md
+
+# Git and cache
+.git
+.gitignore
+.cache
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Jest
+coverage
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# NPM package lock
+package-lock.json
+
+# dotenv environment variables file
+.env
+.env.test
